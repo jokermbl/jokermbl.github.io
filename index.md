@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-![MBL](MBL.jpg) <class="floatpic" width="360" height="480"
+<img src="MBL.jpg" class="floatpic" width="360" height="480"
 
 Here is **Bole Ma (Andy, 马伯乐)**.
 
