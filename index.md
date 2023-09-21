@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/jokermbl/jokermbl.github.io/blob/main/MBL.jpg">
+<img src="https://github.com/jokermbl/jokermbl.github.io/blob/main/MBL.jpg" width="360" height="480">
 
 
 Here is **Bole Ma (Andy, 马伯乐)**.
