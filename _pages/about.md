@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student in the Department of Electrical and Computer Engineering at **Purdue University**, where I am a proud member of the [**i2lab**](https://engineering.purdue.edu/ChanGroup/index.html), advised by Professor [Stanley Chan](https://engineering.purdue.edu/ChanGroup/stanleychan.html). Prior to joining Purdue, I received both my Bachelor's and Master's degrees from **Shanghai Jiao Tong University** in China.
+I am a 2nd year Ph.D. student in the Department of Electrical and Computer Engineering at **Purdue University**, where I am a proud member of the [**i2lab**](https://engineering.purdue.edu/ChanGroup/index.html), advised by Professor [Stanley Chan](https://engineering.purdue.edu/ChanGroup/stanleychan.html). Prior to joining Purdue, I received both my Bachelor's and Master's degrees from **Shanghai Jiao Tong University** in China.
 
 My research interests lie at the intersection of **Computer Vision** and Computational Imaging. Currently, I am focused on developing robust and physics-anchored deep learning frameworks for specialized vision tasks, with a particular emphasis on Monocular Metric Depth Estimation and geometric modeling. I advocate for "first-principles" and gray-box AI models that integrate explicit physical and geometric constraints over pure black-box end-to-end approaches.
 
