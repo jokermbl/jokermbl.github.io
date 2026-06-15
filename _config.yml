@@ -8,7 +8,6 @@
 # Site Settings
 title                    : "Bole Ma"
 description              : "2nd-year Ph.D. student @ i2lab | Purdue University"
-#repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Bole Ma"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/MBL.jpg"
   location         : "West Lafayette, IN, USA"
   employer         : "Purdue University"
   googlescholar    : "https://scholar.google.com/citations?user=aAl1MAYAAAAJ"
